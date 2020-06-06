@@ -1,0 +1,175 @@
+2019-05-28 18:47:34
+----- HPP Request Information -----
+['TIMESTAMP'] => 20190528184734
+['MERCHANT_ID'] => 349718882
+['ACCOUNT'] => internet
+['ORDER_ID'] => 9-20190528184734
+['CURRENCY'] => EUR
+['AMOUNT'] => 2140
+['SHA1HASH'] => fea4440c960130c99206e040d4eb9a8fb03244cd
+['AUTO_SETTLE_FLAG'] => 1
+['HPP_LANG'] => es
+['HPP_CUSTOMER_EMAIL'] => anckorweb@gmail.com
+['HPP_CUSTOMER_FIRSTNAME'] => Ancor
+['HPP_CUSTOMER_LASTNAME'] => Santos Pérez
+['SHIPPING_CODE'] => 38260
+['SHIPPING_CO'] => ES
+['BILLING_CODE'] => 38260
+['BILLING_CO'] => ES
+['MERCHANT_RESPONSE_URL'] => http://tienda.biostand.local/module/realexpaymentshpp/validation?content_only=1
+['HPP_VERSION'] => 2
+['HPP_POST_DIMENSIONS'] => http://tienda.biostand.local/
+['OFFER_SAVE_CARD'] => 
+['PAYER_EXIST'] => 
+['HPP_SELECT_STORED_CARD'] => 
+
+2019-05-28 18:50:40
+----- HPP Request Information -----
+['TIMESTAMP'] => 20190528185040
+['MERCHANT_ID'] => 349718882
+['ACCOUNT'] => internet
+['ORDER_ID'] => 9-20190528185040
+['CURRENCY'] => EUR
+['AMOUNT'] => 2140
+['SHA1HASH'] => 5973928d46335b35fe9d8b86a03666e2dd55280e
+['AUTO_SETTLE_FLAG'] => 1
+['HPP_LANG'] => es
+['HPP_CUSTOMER_EMAIL'] => anckorweb@gmail.com
+['HPP_CUSTOMER_FIRSTNAME'] => Ancor
+['HPP_CUSTOMER_LASTNAME'] => Santos Pérez
+['SHIPPING_CODE'] => 38260
+['SHIPPING_CO'] => ES
+['BILLING_CODE'] => 38260
+['BILLING_CO'] => ES
+['MERCHANT_RESPONSE_URL'] => http://tienda.biostand.local/module/realexpaymentshpp/validation?content_only=1
+['HPP_VERSION'] => 2
+['HPP_POST_DIMENSIONS'] => http://tienda.biostand.local/
+['OFFER_SAVE_CARD'] => 
+['PAYER_EXIST'] => 
+['HPP_SELECT_STORED_CARD'] => 
+
+2019-05-28 19:02:42
+----- HPP Request Information -----
+['TIMESTAMP'] => 20190528190242
+['MERCHANT_ID'] => 349718882
+['ACCOUNT'] => internet
+['ORDER_ID'] => 9-20190528190242
+['CURRENCY'] => EUR
+['AMOUNT'] => 2140
+['SHA1HASH'] => 3b2e77d58a98996acb1138680a03d89bc601ff7f
+['AUTO_SETTLE_FLAG'] => 1
+['HPP_LANG'] => ES_ES
+['HPP_CUSTOMER_EMAIL'] => anckorweb@gmail.com
+['HPP_CUSTOMER_FIRSTNAME'] => Ancor
+['HPP_CUSTOMER_LASTNAME'] => Santos Pérez
+['SHIPPING_CODE'] => 38260
+['SHIPPING_CO'] => ES
+['BILLING_CODE'] => 38260
+['BILLING_CO'] => ES
+['MERCHANT_RESPONSE_URL'] => http://tienda.biostand.local/module/realexpaymentshpp/validation?content_only=1
+['HPP_VERSION'] => 2
+['HPP_POST_DIMENSIONS'] => http://tienda.biostand.local/
+['OFFER_SAVE_CARD'] => 
+['PAYER_EXIST'] => 
+['HPP_SELECT_STORED_CARD'] => 
+
+2019-05-28 19:06:09
+----- HPP Request Information -----
+['TIMESTAMP'] => 20190528190609
+['MERCHANT_ID'] => 349718882
+['ACCOUNT'] => internet
+['ORDER_ID'] => 9-20190528190609
+['CURRENCY'] => EUR
+['AMOUNT'] => 2140
+['SHA1HASH'] => 539754077e85baaea7666ef2fd4a161fbd05ad42
+['AUTO_SETTLE_FLAG'] => 1
+['HPP_LANG'] => ES_ES
+['HPP_CUSTOMER_EMAIL'] => anckorweb@gmail.com
+['HPP_CUSTOMER_FIRSTNAME'] => Ancor
+['HPP_CUSTOMER_LASTNAME'] => Santos Pérez
+['SHIPPING_CODE'] => 38260
+['SHIPPING_CO'] => ES
+['BILLING_CODE'] => 38260
+['BILLING_CO'] => ES
+['MERCHANT_RESPONSE_URL'] => http://tienda.biostand.local/module/realexpaymentshpp/validation?content_only=1
+['HPP_VERSION'] => 2
+['HPP_POST_DIMENSIONS'] => http://tienda.biostand.local/
+['OFFER_SAVE_CARD'] => 
+['PAYER_EXIST'] => 
+['HPP_SELECT_STORED_CARD'] => 
+
+2019-07-04 22:39:25
+----- HPP Request Information -----
+['TIMESTAMP'] => 20190704223925
+['MERCHANT_ID'] => 349718882
+['ACCOUNT'] => internet
+['ORDER_ID'] => 19-20190704223925
+['CURRENCY'] => EUR
+['AMOUNT'] => 1400
+['SHA1HASH'] => 1273706af5506075c3a15b50bac5326694de43c9
+['AUTO_SETTLE_FLAG'] => 1
+['HPP_LANG'] => ES_ES
+['HPP_CUSTOMER_EMAIL'] => anckorweb@gmail.com
+['HPP_CUSTOMER_FIRSTNAME'] => Ancor
+['HPP_CUSTOMER_LASTNAME'] => Santos Pérez
+['SHIPPING_CODE'] => 38260
+['SHIPPING_CO'] => ES
+['BILLING_CODE'] => 38260
+['BILLING_CO'] => ES
+['MERCHANT_RESPONSE_URL'] => http://tienda.biostand.local/module/realexpaymentshpp/validation?content_only=1
+['HPP_VERSION'] => 2
+['HPP_POST_DIMENSIONS'] => http://tienda.biostand.local/
+['OFFER_SAVE_CARD'] => 
+['PAYER_EXIST'] => 
+['HPP_SELECT_STORED_CARD'] => 
+
+2019-07-04 23:15:43
+----- HPP Request Information -----
+['TIMESTAMP'] => 20190704231543
+['MERCHANT_ID'] => 349718882
+['ACCOUNT'] => internet
+['ORDER_ID'] => 19-20190704231543
+['CURRENCY'] => EUR
+['AMOUNT'] => 1400
+['SHA1HASH'] => 29e44e31ae5af5c9e6ac6343f73c2976064f6556
+['AUTO_SETTLE_FLAG'] => 1
+['HPP_LANG'] => ES_ES
+['HPP_CUSTOMER_EMAIL'] => anckorweb@gmail.com
+['HPP_CUSTOMER_FIRSTNAME'] => Ancor
+['HPP_CUSTOMER_LASTNAME'] => Santos Pérez
+['SHIPPING_CODE'] => 38260
+['SHIPPING_CO'] => ES
+['BILLING_CODE'] => 38260
+['BILLING_CO'] => ES
+['MERCHANT_RESPONSE_URL'] => http://tienda.biostand.local/module/realexpaymentshpp/validation?content_only=1
+['HPP_VERSION'] => 2
+['HPP_POST_DIMENSIONS'] => http://tienda.biostand.local/
+['OFFER_SAVE_CARD'] => 
+['PAYER_EXIST'] => 
+['HPP_SELECT_STORED_CARD'] => 
+
+2019-07-04 23:24:00
+----- HPP Request Information -----
+['TIMESTAMP'] => 20190704232400
+['MERCHANT_ID'] => 349718882
+['ACCOUNT'] => internet
+['ORDER_ID'] => 19-20190704232400
+['CURRENCY'] => EUR
+['AMOUNT'] => 1400
+['SHA1HASH'] => ******** 
+['AUTO_SETTLE_FLAG'] => 1
+['HPP_LANG'] => ES_ES
+['HPP_CUSTOMER_EMAIL'] => anckorweb@gmail.com
+['HPP_CUSTOMER_FIRSTNAME'] => Ancor
+['HPP_CUSTOMER_LASTNAME'] => Santos Pérez
+['SHIPPING_CODE'] => 38260
+['SHIPPING_CO'] => ES
+['BILLING_CODE'] => 38260
+['BILLING_CO'] => ES
+['MERCHANT_RESPONSE_URL'] => http://tienda.biostand.local/module/realexpaymentshpp/validation?content_only=1
+['HPP_VERSION'] => 2
+['HPP_POST_DIMENSIONS'] => http://tienda.biostand.local/
+['OFFER_SAVE_CARD'] => 
+['PAYER_EXIST'] => 
+['HPP_SELECT_STORED_CARD'] => 
+

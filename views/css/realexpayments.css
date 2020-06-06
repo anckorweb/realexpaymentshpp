@@ -1,0 +1,55 @@
+p.payment_module a.realexpayments {
+    background: url(../img/creditcard.svg) 15px 15px no-repeat #fbfbfb;
+		background-size: 64px 64px;
+}
+
+p.payment_module a.realexpayments:hover {
+    background-color: #f6f6f6;
+}
+
+p.payment_module a.realexpayments:after {
+  display: block;
+   content: "\f054";
+   position: absolute;
+   right: 15px;
+   margin-top: -11px;
+   top: 50%;
+   font-family: "FontAwesome";
+   font-size: 25px;
+   height: 22px;
+   width: 14px;
+   color: #777; }
+p.success_message{
+      font-size: 16px;
+    text-transform: uppercase;
+}
+@media (max-width: 1024px){
+.fancybox-opened{
+    opacity: 1;
+    overflow: scroll!important;
+    height: 100%!important;
+    width: 100%!important;
+    position: fixed!important;
+    top: 0!important;
+    left: 0!important;
+}
+.fancybox-inner{
+    overflow: auto;
+    width: 100%!important;
+    min-height: 680px!important;
+}
+.fancybox-lock .fancybox-overlay{
+  overflow:scroll!important;
+}
+.fancybox-skin{
+  padding: 5px!important;
+}
+}
+/*.fancybox-wrap {
+    position: absolute;
+    top: 10px !important;
+}*/
+#iframerealex{
+  min-height: 500px!important;
+  max-width: 100%!important;
+}
